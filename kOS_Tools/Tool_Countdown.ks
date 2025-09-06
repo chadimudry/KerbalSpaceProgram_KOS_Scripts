@@ -10,13 +10,13 @@
 // ---------------------------------------------------- //
 
 // Function
-function countdown {
+global function countdown {
     parameter start.
     parameter step is 1.
     print("Start countdown:").
     wait 1.
     clearScreen.
-    print("s") AT (10, 0).
+    print("s") AT (8, 0).
     from {local i is start.}
     until i <= 0
     step {set i to i - step.}
