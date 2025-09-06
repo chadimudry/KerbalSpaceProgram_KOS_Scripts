@@ -1,1 +1,1 @@
-# :rocket: KerbalSpaceProgram_KOS_Scripts
+# :rocket: Kerbal Space Program - kOS Scripts
